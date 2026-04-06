@@ -393,7 +393,7 @@ def raw(html):     st.markdown(html, unsafe_allow_html=True)
 raw("""
 <div class="hero-band">
     <div class="hero-eyebrow">Manchester United · 2024–25 Premier League · Post-Season Analysis</div>
-    <h1 class="hero-title">Why United<br>missed the Top 4</h1>
+    <h1 class="hero-title">Why Manchester United<br>missed the Top 4</h1>
     <p class="hero-subtitle">
         A data-led diagnosis of the 32-point gap between Manchester United
         and a Champions League place — built on xG, xGA, player efficiency,
