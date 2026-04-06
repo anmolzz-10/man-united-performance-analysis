@@ -1,0 +1,10 @@
+# Ignore VS Code specific files
+.vscode/
+.devcontainer/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore streamlit state
+.streamlit/
